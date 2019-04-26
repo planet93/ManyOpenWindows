@@ -1,0 +1,11 @@
+C:\Users\Sergey.Ermolaev\Documents\MyApp\OpenWindowsApp\OpenWindowsApp\bin\Debug\OpenWindowsApp.exe.config
+C:\Users\Sergey.Ermolaev\Documents\MyApp\OpenWindowsApp\OpenWindowsApp\bin\Debug\OpenWindowsApp.exe
+C:\Users\Sergey.Ermolaev\Documents\MyApp\OpenWindowsApp\OpenWindowsApp\bin\Debug\OpenWindowsApp.pdb
+C:\Users\Sergey.Ermolaev\Documents\MyApp\OpenWindowsApp\OpenWindowsApp\obj\Debug\OpenWindowsApp.csprojAssemblyReference.cache
+C:\Users\Sergey.Ermolaev\Documents\MyApp\OpenWindowsApp\OpenWindowsApp\obj\Debug\OpenWindowsApp.Form1.resources
+C:\Users\Sergey.Ermolaev\Documents\MyApp\OpenWindowsApp\OpenWindowsApp\obj\Debug\OpenWindowsApp.Properties.Resources.resources
+C:\Users\Sergey.Ermolaev\Documents\MyApp\OpenWindowsApp\OpenWindowsApp\obj\Debug\OpenWindowsApp.csproj.GenerateResource.cache
+C:\Users\Sergey.Ermolaev\Documents\MyApp\OpenWindowsApp\OpenWindowsApp\obj\Debug\OpenWindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\Sergey.Ermolaev\Documents\MyApp\OpenWindowsApp\OpenWindowsApp\obj\Debug\OpenWindowsApp.exe
+C:\Users\Sergey.Ermolaev\Documents\MyApp\OpenWindowsApp\OpenWindowsApp\obj\Debug\OpenWindowsApp.pdb
+C:\Users\Sergey.Ermolaev\Documents\MyApp\OpenWindowsApp\OpenWindowsApp\obj\Debug\OpenWindowsApp.Form2.resources
